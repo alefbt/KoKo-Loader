@@ -1,5 +1,7 @@
 KoKo-Loader
 ===========
+(Ko)hana (Ko)rotkin configuration (Loader)
+Create configuration isolation of environments like Production, Development
 
 Install
 -------
